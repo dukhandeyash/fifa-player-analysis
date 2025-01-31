@@ -1,6 +1,6 @@
 # FIFA Player Analysis
 
-This repository contains R code that performs data analysis on FIFA players using a dataset available at [FIFA Players Dataset](https://data.world/raghav333/fifa-players).
+This repository contains Pythin code that performs data analysis on FIFA players using a dataset available at [FIFA Players Dataset](https://data.world/raghav333/fifa-players).
 
 ## Features:
 - Data cleaning and processing.
